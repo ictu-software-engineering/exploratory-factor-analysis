@@ -2,10 +2,10 @@
 ## Research gap
 "Mặc dù các khung năng lực số đã được thiết lập .... **các biện pháp đo lường cho đến nay hiếm khi đề cập đến lĩnh vực**... này. Hệ quả là, hầu hết các biện pháp đo lường DSE tập trung vào việc đo lường tự hiệu quả như một cấu trúc đơn chiều, chẳng hạn như liên quan đến việc sử dụng máy tính nói chung, internet, hoặc các ứng dụng phần mềm cụ thể. Điều này hoàn toàn trái ngược với các quan điểm hiện tại trong tài liệu về năng lực số, cho rằng năng lực số có cấu trúc đa chiều. Hơn nữa, các **biện pháp đo lường DSE hiện nay thường bỏ qua các khía cạnh trung tâm** được đề xuất bởi các khung năng lực số, như an toàn và giải quyết vấn đề"
 
+"Việc thiếu các nghiên cứu số lượng lớn về giai đoạn mầm non và **sự thiếu hụt một công cụ đo lường** để làm rõ vai trò giới tính của giáo viên mầm non trong môi trường lớp học đã thúc đẩy nhà nghiên cứu thực hiện công trình này. Người ta cho rằng **công cụ đo lường do nhà nghiên cứu phát triển** nhằm làm rõ vai trò giới tính của giáo viên mầm non trong môi trường lớp học **sẽ có ích cho các nghiên cứu trong tương lai**."
 
+"Bài viết hiện tại giới thiệu thang đo chín mục theo ba chiều để đo lường các yếu tố này. Thang đo được cấu trúc với mục đích giúp sinh viên hiểu rõ quá trình xử lý đạo đức của mình khi gặp phải những tình huống thách thức lý luận đạo đức trong môi trường học thuật. Thang đo này khác biệt so với các biện pháp đo đạo đức hiện có dựa trên mô hình của Kohlberg, **vì nó tập trung cụ thể vào môi trường học thuật**, không giống như các kịch bản được đại diện trong các biện pháp như DIT hoặc DIT2, vốn tập trung vào những tình huống tiến thoái lưỡng nan đạo đức, trong hầu hết các trường hợp, không phù hợp với sinh viên đại học chuyên ngành kinh doanh hoặc không liên quan trực tiếp đến tính liêm chính học thuật."
 
-
-
-
+"Nghiên cứu cho thấy rằng các bài kiểm tra trực tuyến có tác động tích cực đến kết quả học tập và thái độ của sinh viên đối với việc thi trực tuyến. Do đó, việc xem xét thái độ của sinh viên đối với học trực tuyến là điều cần thiết để tăng cường thành công học tập trong các khóa học trực tuyến và mang lại kết quả học tập tốt hơn. Động lực và thái độ tích cực của sinh viên là những yếu tố then chốt để các trường đại học áp dụng thành công e-learning. Vì vậy, thái độ của sinh viên đối với các kỳ thi trực tuyến cần được xem xét. Hơn nữa, trong khoa học xã hội, việc phát triển thang đo cho phép các nhà nghiên cứu đo lường các khái niệm vô hình như thái độ và hành vi, những yếu tố trung tâm để hiểu các tương tác của con người và hiện tượng xã hội. Do đó, nghiên cứu này nhằm **phát triển một thang đo** để xác định thái độ của sinh viên đại học đối với các kỳ thi trực tuyến. "
 
 
